@@ -102,7 +102,7 @@ shop/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/shop.git
+git clone https://github.com/omartamer002/shop.git
 cd shop
 ```
 
